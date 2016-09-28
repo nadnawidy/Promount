@@ -1,0 +1,3 @@
+[2016-09-28 11:46:07] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Trait 'Illuminate\Foundation\Auth\Access\AuthorizesResources' not found' in F:\blog\app\Http\Controllers\Controller.php:13
+Stack trace:
+#0 {main}  
