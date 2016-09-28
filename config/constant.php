@@ -2,6 +2,6 @@
 
 return [
         // path to asset url
-	'assetUrl' => 'http://localhost:8000/assets/',
+	'assetUrl' => 'http://phplaravel-27566-59415-159101.cloudwaysapps.com/assets/',
 
 ];
