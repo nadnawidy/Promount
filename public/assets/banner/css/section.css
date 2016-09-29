@@ -32,6 +32,7 @@ body.page-boxed {
 #header .navbar .navbar-brand > img {
   width: 200px;
   height: auto;
+    margin-top: 10px;
     
 }
 #header .navbar-collapse .navbar-navigation {
@@ -108,7 +109,7 @@ body.page-boxed {
   #header .navbar .navbar-brand > img {
     width: 115px;
     margin-left: 10px;
-    margin-top: 6px;
+    margin-top: 11px;
   }
 }
 /* ========================================================================
