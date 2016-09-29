@@ -16,7 +16,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="header-navigation">
                     <ul class="nav navbar-nav navbar-account navbar-right">
-                        <li><a href="https://wrapbootstrap.com/theme/blankon-fullpack-admin-theme-WB09J8G43?ref=djavaui" class="btn btn-success btn-sm text-uppercase" target="_blank">Login</a></li>
+                        <li><a href="https://wrapbootstrap.com/theme/blankon-fullpack-admin-theme-WB09J8G43?ref=djavaui" class="btn btn-success btn-sm text-uppercase" target="_blank">Logins</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
