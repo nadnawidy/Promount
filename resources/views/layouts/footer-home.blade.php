@@ -18,18 +18,18 @@
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="#home" class="page-scroll">Home</a></li>
                                 <li><a href="#features" class="page-scroll">Features</a></li>
-                                <li><a href="http://djavaui.com/about-us" target="_blank">About us</a></li>
-                                <li><a href="https://wrapbootstrap.com/user/djavaui" target="_blank">Contact us</a></li>
+                                <li><a href="" target="_blank">About us</a></li>
+                                <li><a href="" target="_blank">Contact us</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
                     </div><!-- /.container-fluid -->
                 </nav>
                 <div class="footer-btn-social">
-                    <a class="btn btn-twitter" href="https://twitter.com/djavaui" role="button" target="_blank"><i class="icon-social-twitter icons"></i> Follow us</a>
-                    <a class="btn btn-facebook" href="https://www.facebook.com/djavaui" role="button" target="_blank"><i class="icon-social-facebook icons"></i> Follow us</a>
+                    <a class="btn btn-twitter" href="" role="button" target="_blank"><i class="icon-social-twitter icons"></i> Follow us</a>
+                    <a class="btn btn-facebook" href=" " role="button" target="_blank"><i class="icon-social-facebook icons"></i> Follow us</a>
                 </div>
                 <div class="footer-copyright">
-                    <p>All right reserved <span id="copyright-year"></span>. <a href="http://djavaui.com" target="_blank">Djava UI</a></p>
+                    <p>All right reserved <span id="copyright-year"></span>. <a href=" " target="_blank">Promount</a></p>
                 </div>
             </div>
         </div>
